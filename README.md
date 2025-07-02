@@ -10,17 +10,22 @@ Welcome to my Github account!
 - 📱 **Mobile**: Android (Java), XML, ViewBinding
 
 ## Projects
-**Using Genetic Algorithms to solve Vehicles Routing Problem**
+**Latest: Using Genetic Algorithms to solve Vehicles Routing Problem**
 [route-optimizer-api](https://github.com/seuusuario/route-optimizer-api)
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [ecooleo-app](https://github.com/seuusuario/ecooleo-app) | Mobile app for eco-friendly oil collection with payments via PagSeguro | Android (Java), REST API, QR Code |
-| [route-optimizer-api](https://github.com/seuusuario/route-optimizer-api) | API for optimizing delivery routes using Google Maps | C#, ASP.NET Core, Google Maps API |
+| [Ecooleo Mobile](https://github.com/FeKiehn/Ecooleo-FrontApp) | Mobile app for eco-friendly oil collection with payments via PagSeguro | Android (Java), REST API, QR Code |
+| [Ecooleo Admin](https://github.com/FeKiehn/Ecooleo-FrontAdmin) | Administrative website for eco-friendly oil collection | JS, AJAX, JQuery |
+| [Ecooleo Services](https://github.com/FeKiehn/ecooleo) | C# .NET 8.0 Core API Microservice for eco-friendly oil collection | ASP.NET Core, C#, RESTful API, SQL, Azure (ACR - SQL) |
+| [Wayup Faster Transit Routes](https://github.com/FeKiehn/Wayup-Routerizer) | API for optimizing delivery routes using Google Maps | C#, ASP.NET Core, Google Maps API |
 
-## 📈 GitHub Stats
+---
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fekiehn&show_icons=true&theme=transparent&hide_title=true)
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/feklopes/)
+- 📧 felipekiehnlopes@gmail.com
 
 
 <!--
