@@ -11,7 +11,7 @@ Welcome to my Github account!
 
 ## Projects
 **Latest: Using Genetic Algorithms to solve Vehicles Routing Problem**
-[route-optimizer-api](https://github.com/seuusuario/route-optimizer-api)
+[Wayup Faster Transit Routes](https://github.com/FeKiehn/Wayup-Routerizer)
 
 | Project | Description | Stack |
 |--------|-------------|-------|
